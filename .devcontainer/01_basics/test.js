@@ -1,0 +1,1 @@
+console.log("mindsync code")
